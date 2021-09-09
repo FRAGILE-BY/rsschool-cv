@@ -17,6 +17,7 @@
   <h2> Contat Info:</h2>
    <ul>
     <li><b>Telegram:</b> @FRAGILE</li>
+     <li><b>e-Mail:</b><a href="mailto: lameroza@gmail.com">lameroza@gmail.com</a></li>
    </ul>
  </section>
  
