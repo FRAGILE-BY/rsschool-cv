@@ -5,11 +5,14 @@
   <meta charset="utf-8">
    </head>
  <body>
-
+<header>
+ <nav></nav> <!-- навигационное меню -->
+ 
+ <article>
+  <h2> Hello? happy to see U here</h2>
+  <p>Lorem ipsum</p>
+ </article>
   <ul>
-    <li>Чебурашка</li>
-    <li>Крокодил Гена</li>
-    <li>Шапокляк</li>
    <li>Artyom Chechikov</li>
    <li>Telegram @LILFRAG </li>
    <li>Info</li>
