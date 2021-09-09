@@ -9,10 +9,19 @@
  <nav></nav> <!-- навигационное меню -->
  
  <article>
-  <h2> Hello! happy to see U here</h2>
-  <p>Lorem ipsum</p>
+  <h2> Name:</h2>
+  <p>Artyom Chechikov</p>
  </article>
-  <ul>
+ 
+ <section>
+  <h2> Contat Info:<h2>
+   <ul>
+    <li><b>Telegram:</b> @FRAGILE</li>
+   </ul>
+ </section>
+ 
+ 
+ <ul>
    <li>Artyom Chechikov</li>
    <li>Telegram @LILFRAG </li>
    <li>Info</li>
