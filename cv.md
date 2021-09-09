@@ -14,7 +14,7 @@
  </article>
  
  <section>
-  <h2> Contat Info:<h2>
+  <h2> Contat Info:</h2>
    <ul>
     <li><b>Telegram:</b> @FRAGILE</li>
    </ul>
