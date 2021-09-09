@@ -9,7 +9,7 @@
  <nav></nav> <!-- навигационное меню -->
  
  <article>
-  <h2> Hello? happy to see U here</h2>
+  <h2> Hello! happy to see U here</h2>
   <p>Lorem ipsum</p>
  </article>
   <ul>
